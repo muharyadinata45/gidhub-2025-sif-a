@@ -3,6 +3,7 @@ Pada latihan 1 ini saya sudah;
 2. Membuat repository
 3. Melakukan edit pada file readme.md
 
+sesi-3-1
 Pada latihan ini juga saya sudah;
 a. membuat file latihan1.txt
 b. mencoba membuat branch
